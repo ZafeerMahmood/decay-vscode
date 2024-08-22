@@ -1722,7 +1722,6 @@
       "name": "js/ts italic attributes",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#a9acdb"
       }
     },

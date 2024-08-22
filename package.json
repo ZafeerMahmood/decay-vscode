@@ -1,5 +1,5 @@
 {
-  "name": "decay",
+  "name": "decay-zafeer",
   "displayName": "Decay",
   "description": "Decay colorscheme now ported to vscode! :3",
   "version": "1.0.10",
@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Decay-Custome",
+        "label": "decay-custom",
         "uiTheme": "vs-dark",
         "path": "./themes/decay-custome.json"
       },
