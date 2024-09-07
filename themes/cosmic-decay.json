@@ -172,7 +172,7 @@
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#a5b7d5"
+        "foreground": "#8cacef"
       }
     },
     {
@@ -322,7 +322,7 @@
       "name": "js/ts module",
       "scope": "support.module.node,support.type.object.module,support.module.node",
       "settings": {
-        "foreground": "#a5b7d5"
+        "foreground": "#ffc19f"
       }
     },
     {
@@ -1344,7 +1344,7 @@
       "name": "js Flow",
       "scope": ["support.type.primitive"],
       "settings": {
-        "foreground": "#a5b7d5"
+        "foreground": "#8cacef"
       }
     },
     {
@@ -1449,7 +1449,7 @@
       }
     },
     {
-      "name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
+      "name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same color",
       "scope": [
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.pseudo-class"
@@ -1501,7 +1501,7 @@
       }
     },
     {
-      "name": "Makefile text colour",
+      "name": "Makefile text color",
       "scope": ["source.makefile"],
       "settings": {
         "foreground": "#a5b7d5"
@@ -1651,7 +1651,7 @@
       "name": "language operators like '+', '-' etc",
       "scope": ["constant.other.color.rgb-value.xi"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffff" 
       }
     },
     {
@@ -1719,23 +1719,10 @@
       }
     },
     {
-      "name": "js/ts italic attributes",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-      "settings": {
-        "foreground": "#a9acdb"
-      }
-    },
-    {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
         "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Python Keyword Control",
-      "scope": "keyword.control.import.python,keyword.control.flow.python",
-      "settings": {
       }
     },
     {
